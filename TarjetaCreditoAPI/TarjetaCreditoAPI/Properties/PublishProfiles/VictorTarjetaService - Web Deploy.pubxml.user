@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAncTlwwmVt02OYpJE+zwmNwAAAAACAAAAAAAQZgAAAAEAACAAAACtN2n5OyYRWTXWOq133Yt/KwDf69Be7+BTA47UNOCr5gAAAAAOgAAAAAIAACAAAAAWi/ttLdcXfRXgCScaw3p9fxqA/XsXDONfllnGFAjWkoAAAACBafSKNNkPENXT47PXSQmOxdPRnwCtsw9/QOey38KWBKcCd2khcLFyMwlTiCjhWu2dr27dBlyg+iYbLEYUZjsWTDf8lMCBrcx8G2N11PKdcqndJBBVekwTXxEXV04wbg+i72fqmw7Bi1KoJUjIOp92k5skdOeJgIHzw04SovDT2UAAAABNQuQAeU9EDo/Mu47bWTne4uqtH+AFCBySFmt5ADGhK/4jRFSb68aHEviAB29GXVWWl3iC2vRPck/p3J/D5Gau</EncryptedPassword>
+    <History>True|2022-06-24T18:52:29.3143873Z;True|2022-06-24T12:41:55.1811344-06:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:tarjetacreditoapidbserver.database.windows.net,1433%3bInitial Catalog=TarjetaCreditoAPI_db%3bUser Id=victorc%40tarjetacreditoapidbserver%3bPassword=Carballo90</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
